@@ -1,0 +1,2 @@
+# wedsitbasic-on-javascript
+firstjavascriptpractice
